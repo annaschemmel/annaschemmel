@@ -19,6 +19,16 @@ Here are some ideas to get you started:
 <br>
 
 
+## About myself
+##### I love creating stuff which often includes
+- 🧶 **Yarn**: In my free time I enjoy knitting and crocheting
+- ☕ **Coffee**: I used to work at different cafés and
+- 💅 **Nail art**: A great pastime if you have 6h to kill
+- ✏️ **Design of course:)**
+<br>
+
+
+
 
 
 
