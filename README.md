@@ -11,12 +11,17 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+![title image](/title-img)
 -->
+
 
 # 👋 Hi everyone!
 
-#### I'm Anna, an UX Designer currently based in Hamburg, currently learning web development at Neue Fische 🐟 Nice to meet y'all!
+#### I'm Anna, an UX Designer currently based in Hamburg, currently learning web development at Neue Fische 🐟 Nice to meet y'all! 
+
 <br>
+
 
 
 ## About myself
@@ -38,10 +43,7 @@ Here are some ideas to get you started:
 
 #### Find me on [LinkedIn](https://www.linkedin.com/in/anna-lynn-schemmel)
 
-
-
-
-
+<img src="https://c.tenor.com/0muRp0H9hTsAAAAC/tenor.gif" alt="greetings" width="100"/>
 
 
 
