@@ -34,6 +34,10 @@ Here are some ideas to get you started:
 - Print and Editorial Design
 <br>
 
+---
+
+#### Find me on [LinkedIn](https://www.linkedin.com/in/anna-lynn-schemmel)
+
 
 
 
