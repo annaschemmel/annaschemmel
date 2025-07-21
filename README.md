@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 ## About myself
 ##### I love creating stuff which often includes
 - 🧶 **Yarn**: In my free time I enjoy knitting and crocheting
-- ☕ **Coffee**: I used to work at different cafés and
+- ☕ **Coffee**: I used to work at different cafés and nice latte-art makes people happy
 - 💅 **Nail art**: A great pastime if you have 6h to kill
 - ✏️ **Design of course:)**
 <br>
