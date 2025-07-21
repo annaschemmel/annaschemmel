@@ -28,6 +28,14 @@ Here are some ideas to get you started:
 <br>
 
 
+## What I do for work
+- UX/UI design
+- Branding
+- Print and Editorial Design
+<br>
+
+
+
 
 
 
